@@ -2,11 +2,11 @@
 College A6 project - A Java-based desktop application to track daily expenses, manage budget, and monitor savings/debt using modular methods and JOptionPane GUI.
 # Smart Wallet Manager (Java Project)
 
-A simple yet powerful Java application designed to help users manage their finances. This project demonstrates the practical use of **Java Methods**, Conditional Logic, and GUI components** using `JOptionPane`.
+A simple yet powerful Java application designed to help users manage their finances. This project demonstrates the practical use of Java Methods, Conditional Logic, and GUI components using `JOptionPane`.
 
 ## Features
-*   Set Initial Balance:** Start by defining your total available funds.
-*   Add Expenses:** Log your daily spending with custom notes (e.g., Food, Rent, Travel).
+*   Set Initial Balance:Start by defining your total available funds.
+*   Add Expenses:Log your daily spending with custom notes (e.g., Food, Rent, Travel).
 *   Transaction History: View a complete list of all your recorded expenses.
 *   Smart Summary:
     *   Automatically calculates remaining balance.
